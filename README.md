@@ -4,9 +4,8 @@
 A Java console utility that validates password strength using regex-based security rules.
 
 ## 2. Setup Instructions
-```bash
-javac PasswordStrengthTester.java
-java PasswordStrengthTester
+    javac PasswordStrengthTester.java
+    java PasswordStrengthTester
 
 ## 3. The Logic (How I thought)
    Why did I choose this approach?
