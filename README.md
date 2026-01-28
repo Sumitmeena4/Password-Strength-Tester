@@ -15,7 +15,7 @@ A Java console utility that validates password strength using regex-based securi
    Identifying special characters correctly was tricky. I solved it using a regex that excludes alphanumeric characters.
 
 ## 4.Output Screenshot
-    ![Password Strength Output](screenshots/output.png)
+    ![Password Strength Output](Screenshots/output.png)
 
 ## 5. Future Improvements
     If I had 2 more days, I would:
